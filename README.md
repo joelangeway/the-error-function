@@ -33,3 +33,7 @@ The "shorter" numbers for `x` toward the end are the shortest rendering of a num
 In `integration.js` you'll find code for computing numerical integrals with better than naive precision. That was the main thing I needed to compute accurate values of the error function. In `erf.js` we generate a huge lookup table to support a very high resolution approximation of the error function. In `write-tables.js` we format and output tables. You'll find no dependencies nor even a `package.json` file. I don't want the reader to have to go anywhere else to figure out how this code works, except maybe a math book.
 
 Please, feel free to copy whatever you like from this repository.
+
+## References
+
+1. The Handbook of Mathematical Functions - Edited by Milton Abramowitz and Irene A. Stegun - Dover Publications - 2013
