@@ -1,6 +1,6 @@
 # The Error Function
 
-A public resource for higher resolution and more comprehensive samples of The Error Function, `erf(x)`.
+A public resource for higher resolution and more comprehensive samples of The Error Function, `erf(x)`, [the table](output/erf.md).
 
 ## Why do we care about The Error Function?
 
@@ -30,5 +30,5 @@ The "shorter" numbers for `x` toward the end are the shortest rendering of a num
 
 ## What else is in the repository
 
-In `integration.js` you'll find code for computing numerical integrals with better than naive precision. That was the main thing I needed to compute accurate values of the error function.
+In `integration.js` you'll find code for computing numerical integrals with better than naive precision. That was the main thing I needed to compute accurate values of the error function. Please, feel free to copy whatever you like from this repository.
 
