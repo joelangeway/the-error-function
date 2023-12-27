@@ -24,7 +24,7 @@ I tested all the values in the table where `x = k/10` for some integer `k` and a
 
 All the values in Table 7.1 of Handbook of Mathematical Functions¹ that also appear in our table match to the precision given in the book, but those values only go up to `erf(2)=0.9953222650`.
 
-We match all the values in the table on Wikipedia's article about The Error Function.
+We match all the values in the table on [Wikipedia's article about The Error Function](https://en.wikipedia.org/wiki/Error_function#Table_of_values).
 
 The "shorter" numbers for `x` toward the end are the shortest rendering of a number for which `erf(x)` is the number in the second column due to numerical precision limits.
 
